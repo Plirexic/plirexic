@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Max!</h1>
 
-🔭 Software Engineer looking to broaden my horizons<br>
-🧑‍🎓 Doing my bachelor's degree in Software Engineering at Esslingen University<br>
-💬 Currently learning about full stack applications
+🔭 Looking to broaden my horizons<br>
+🧑‍🎓 Finishing my bachelor's degree in Software Engineering<br>
+💬 Interested in LLMs and Cybersecurity
 <div align="right">
     <img alt="Coding" width="400" src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif">
 </div>
@@ -41,9 +41,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=plirexic&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=plirexic&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=plirexic&icon=5&color=12)](https://visitcount.itsvg.in)
